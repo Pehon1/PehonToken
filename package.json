@@ -1,12 +1,12 @@
 {
   "name": "pehoncoin",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fun little project by Pehon. NFA Pehon's Coin isn't designed to be exchangable for anything. Pehon has always wanted his own coin, just for the fun of it. If you like some, reach out to [Pehon](http://ong.ph).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pehon",
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.2.0"
